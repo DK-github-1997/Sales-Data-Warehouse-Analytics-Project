@@ -1,3 +1,6 @@
+# Author Dnyaneshvar
+# date -24 Jun 
+
 CREATE TABLE fact_sales (
     sales_id NUMBER PRIMARY KEY,
     order_id NUMBER,
